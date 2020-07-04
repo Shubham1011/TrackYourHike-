@@ -14,5 +14,7 @@ The application uses a separate backend created in spring boot to manage users a
 --npm run
 ```
 
-## Watch out the demo below
+## Watch out the demo below (Give it a sec to load)
+
+![](20200705_011334__1_.gif)
 
