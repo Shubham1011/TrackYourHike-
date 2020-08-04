@@ -16,5 +16,5 @@ The application uses a separate backend created in spring boot to manage users a
 
 ## Watch out the demo below (Give it a sec to load)
 
-![](20200705_011334__1_.gif)
+![](ezgif-6-9a1f5bf6b56e.gif)
 
